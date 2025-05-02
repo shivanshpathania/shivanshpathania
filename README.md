@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures And Algorithms , REACT**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/shivanshPathania85](https://linktr.ee/shivanshPathania85)
+- 👨‍💻  [https://linktr.ee/shivanshPathania85](https://linktr.ee/shivanshPathania85)
 
 - 📫 How to reach me **shivanshpathania27@gmail.com**
 
